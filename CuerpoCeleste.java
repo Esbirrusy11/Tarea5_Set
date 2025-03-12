@@ -62,7 +62,7 @@ public class CuerpoCeleste {
         return
                 "Nombre-> " + nombre  +
                         " PeriodoOrbital-> " + periodoOrbital +
-                        " TipoCuerpo-> " + tipoCuerpo + " | " ;
+                        " TipoCuerpo-> " + tipoCuerpo ;
 
     }
 }
